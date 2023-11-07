@@ -1,6 +1,5 @@
 import folium
 from geopy.geocoders import Nominatim
-import xml.etree.ElementTree as ET
 import re
 import time
 from playwright.sync_api import sync_playwright
